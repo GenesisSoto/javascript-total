@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>01-MiPrimeraPagina</title>
+    <style>
+        body {
+            background-color: teal;
+        }
+
+    </style>
+</head>
+<body>
+    <script>
+        function ponertitulorojo() {
+            document.getElementById("titulo").style = "color: red"
+        }
+
+        function ponertitulocolornegro () {
+            document.getElementById("titulo").style = "color: black"
+        }
+    </script>
+    <h1 id="titulo" onmouseover="ponertitulorojo()"
+        onmouseout="ponertitulocolornegro()">
+        bienvenido a JavaScript TOTAL</h1>
+    <h2>El primer paso es el mas grande</h2>
+    <p>Esta pagina es muy sencilla</p>
+    <p>(pero tiene un secreto > > > Preciona F12)</p>
+</body>
+</html>

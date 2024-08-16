@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio 1</title>
+    </head>
+
+    <body>
+        <small>Este es un texto en negrita</small>
+        <strong>este es un texto en cursiva</strong>
+        <del>este es un texto subrayado </del>
+    </body>
+</html>
