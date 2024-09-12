@@ -7,6 +7,6 @@
     <body>
         <b>Este es un texto en negrita</b>
         <i>este es un texto en cursiva</i>
-        <u>este es un texto subrayado</u>
+        <u>este es un texto subrayado </u>
     </body>
 </html>
